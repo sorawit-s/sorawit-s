@@ -1,8 +1,5 @@
-<!-- Banner -->
-<img src="https://your-image-link.com/banner.png" alt="Welcome banner" style="width:100%;"/>
 
-<h1 align="center">Hi there, I'm Aof 👋</h1>
-<h3 align="center">Engineering Student | Design Thinker | Tech Creator</h3>
+<h3 align="center">Engineering Student 
 
 ---
 
