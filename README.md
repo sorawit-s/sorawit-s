@@ -1,3 +1,11 @@
+<!-- Banner -->
+<img src="https://your-image-link.com/banner.png" alt="Welcome banner" style="width:100%;"/>
+
+<h1 align="center">Hi there, I'm Aof 👋</h1>
+<h3 align="center">Engineering Student | Design Thinker | Tech Creator</h3>
+
+---
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Off ========================================================================================
 * 🌍  I'm based in Chumphon
  * ✉️  You can contact me at [Sorawat3553@gmail.com](mailto:Sorawat3553@gmail.com)
